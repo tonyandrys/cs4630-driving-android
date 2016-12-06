@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_e87927d6ea08d50a7220e81022671835586ec498/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_af1d53cb539f7183af4b93c8774cca2942b3935a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_1c29c02d00298e14ebd4c20f0350a73db67d2cc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/exploded-aar/org.honorato.multistatetogglebutton/multistatetogglebutton/0.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7460c7e8002ab6678c217d3b5ef2e1d8c62b20fc">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.honorato.multistatetogglebutton-multistatetogglebutton-0.2.2_ae33f58ae0794e0851c37092f06690ac4be404a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_8325030db06eea3f2b3cef7239f808fb14976fb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/libs/json_simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/json_simple-1.1_46113e3ed4292137657de3c367be40e28649bf7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_ee9a3402109c73a8b0f3d1ed4b11fe9c9d29b382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_1f8fc01a8e871e63d04bbbbbf424c204139424bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92f46d6199450142654355339de5dcd7b1298e99">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_229a71f3a1fadba58782ec7b18c42dda824bbeea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/libs/dropbox-android-sdk-1.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/dropbox-android-sdk-1.6.3_f0b5b80af24bc034dbdb8712cc96d11cb1fc2a79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_7cb9458fa5ea31e75f988629773959dc3ad5204c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.1/a4cf4688fe1c7e3a63aa636cc96d013af537768e/commons-collections4-4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a4cf4688fe1c7e3a63aa636cc96d013af537768e">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-collections4-4.1_f8134bf69cc6fa4efbda0aab036f017d8d128870/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/development/sdks/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_bd110844793cd8a2c24763fdcdc1f2188c32832a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cccb5bd9287bbfa4f08a34a69562ee76cc9c040a">
+        <dex dex="/Users/tony/AndroidStudioProjects/DrivingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5f9471db2f5f71cd26553b1623bb9f0f362ae286/classes.dex" />
+    </item>
+
+</items>

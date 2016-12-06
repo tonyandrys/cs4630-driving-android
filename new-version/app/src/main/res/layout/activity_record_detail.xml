@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Frame Layout serves as a container for an Item Detail Fragment -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_record_root_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.uiowa.tsz.drivingapp.RecordDetailActivity">
+
+    <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="schemas.android.com/apk/res-auto"
+        android:id="@+id/action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="?attr/actionBarTheme"
+        android:layout_alignParentTop="true"
+        android:elevation="8dp"
+        android:contentInsetStart="0dp"
+        android:contentInsetLeft="0dp"
+        android:contentInsetRight="0dp"
+        android:contentInsetEnd="0dp"
+        app:contentInsetStart="0dp"
+        app:contentInsetLeft="0dp"
+        app:contentInsetRight="0dp"
+        app:contentInsetEnd="0dp"/>
+
+    <FrameLayout
+        android:id="@+id/activity_record_detail_container"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_below="@id/action_bar"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"/>
+
+</RelativeLayout>

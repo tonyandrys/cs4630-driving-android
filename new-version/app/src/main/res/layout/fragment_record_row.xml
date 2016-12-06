@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="72dp"
+    android:orientation="horizontal"
+    android:weightSum="3"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/record_row_id_textview"
+            android:text="@string/record_row_id_placeholder"
+            android:textStyle="normal|bold"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="0.5"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/record_row_name_textview"
+            android:text="@string/record_row_name_placeholder"
+            android:layout_weight="2"
+            android:layout_gravity="center_vertical"
+            android:textSize="20sp"
+            android:gravity="center_horizontal" />
+
+        <TextView
+            android:text="@string/record_row_elapsed_time_placeholder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/record_row_elapsed_textview"
+            android:layout_weight="0.5"
+            android:layout_gravity="center_vertical"
+            android:textSize="18sp"
+            android:textStyle="normal|italic"
+            android:gravity="right" />
+
+</LinearLayout>

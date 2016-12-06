@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/stop_logging_menuText"
+        android:id="@+id/stop_logging_menuitem"
+        app:showAsAction="always"
+        app:icon="@android:drawable/ic_menu_close_clear_cancel" />
+</menu>

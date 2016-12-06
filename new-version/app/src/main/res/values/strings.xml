@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DrivingApp</string>
+    <string name="start_logging">Start Logging</string>
+    <string name="stop_logging">Stop Logging</string>
+
+    <!-- Driving/Logging view strings -->
+    <string name="data_sample_velocity">00</string>
+    <string name="data_sample_cardinal_direction">\?\?</string>
+    <string name="data_sample_duration">15:21</string>
+    <string name="label_mph">mp/h</string>
+    <string name="label_GPS">GPS</string>
+    <string name="label_duration">duration</string>
+    <string name="grant_location_permissions">Grant Location Permissions</string>
+    <string name="view_saved_records">View Saved Records</string>
+
+    <!-- Road Hazard & Composition strings -->
+    <string name="hard_bump_hazard">Hard Bump</string>
+    <string name="sharp_corner_hazard">Sharp Corner</string>
+    <string name="sudden_stop_hazard">Sudden Stop</string>
+    <string name="hard_acceleration_hazard">Hard Acceleration</string>
+
+    <string-array name="road_type_array">
+        <item>Pavement</item>
+        <item>Gravel</item>
+        <item>Brick</item>
+        <item>Dirt</item>
+    </string-array>
+
+    <!-- Menu strings -->
+    <string name="stop_logging_menuText">Stop</string>
+    <string name="title_record_list">Records</string>
+    <string name="title_record_detail">Record Detail</string>
+    <string name="email_menuText">Email</string>
+    <string name="export_all_menuText">Export All</string>
+
+    <!-- Placeholder strings -->
+    <string name="record_title_placeholder">Record Title</string>
+    <string name="record_body_placeholder">Record Body</string>
+    <string name="record_id_placeholder">ID</string>
+    <string name="record_row_id_placeholder">ID</string>
+    <string name="record_row_name_placeholder">LogName</string>
+    <string name="record_row_elapsed_time_placeholder">00:00</string>
+    <string name="label_minutes">m</string>
+
+
+</resources>

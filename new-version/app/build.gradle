@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '24.0.2'
+    defaultConfig {
+        applicationId "edu.uiowa.tsz.drivingapp"
+        minSdkVersion 23
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:24.1.1'
+    compile 'org.honorato.multistatetogglebutton:multistatetogglebutton:0.2.2'
+    compile 'org.apache.commons:commons-collections4:4.1'
+    compile 'com.android.support:support-v4:24.1.1'
+    compile 'com.android.support:recyclerview-v7:24.1.1'
+    compile 'com.android.support:design:24.1.1'
+    testCompile 'junit:junit:4.12'
+    compile files('libs/dropbox-android-sdk-1.6.3.jar')
+    compile files('libs/json_simple-1.1.jar')
+}
