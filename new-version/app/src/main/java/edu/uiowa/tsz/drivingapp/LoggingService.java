@@ -187,8 +187,8 @@ public class LoggingService extends Service implements SensorEventListener, Loca
         this.activeRecord.addFile(Datum.TYPE_ACCELEROMETER, fileMap.get(Datum.TYPE_ACCELEROMETER).getName());
         this.activeRecord.addFile(Datum.TYPE_GYROSCOPE, fileMap.get(Datum.TYPE_GYROSCOPE).getName());
         this.activeRecord.addFile(Datum.TYPE_LOCATION, fileMap.get(Datum.TYPE_LOCATION).getName());
-        this.activeRecord.addFile(Datum.TYPE_ROAD_HAZARD, fileMap.get(Datum.TYPE_ROAD_HAZARD).getName());
-        this.activeRecord.addFile(Datum.TYPE_ROAD_COMPOSITION, fileMap.get(Datum.TYPE_ROAD_COMPOSITION).getName());
+ //       this.activeRecord.addFile(Datum.TYPE_ROAD_HAZARD, fileMap.get(Datum.TYPE_ROAD_HAZARD).getName());
+ //       this.activeRecord.addFile(Datum.TYPE_ROAD_COMPOSITION, fileMap.get(Datum.TYPE_ROAD_COMPOSITION).getName());
 
         // Start a consumer for each bufferQueue
         this.sc1 = new SensorConsumer(this.accelQueue, fileMap.get(Datum.TYPE_ACCELEROMETER));

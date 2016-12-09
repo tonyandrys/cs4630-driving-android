@@ -168,7 +168,7 @@ public class FileSystemManager {
      * @param targetFile
      * @return
      */
-    public static String appendStringToLogFile(Context context, String stringToWrite, File targetFile)
+ //   public static String appendStringToLogFile(Context context, String stringToWrite, File targetFile)
 
     /**
      * Retrieves the File object for a file in the internal logs directory with name 'filename'.
